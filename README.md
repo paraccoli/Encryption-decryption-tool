@@ -36,6 +36,8 @@
 - Fernet暗号化では、同じパスワードを使用しないと正しく復号化できません。
 - シーザー暗号は簡単に解読される可能性があるため、重要な情報の暗号化には適していません。
 
+<img src="https://github.com/xM1guel/Encryption-decryption-tool/blob/main/image.png" wight="40" hight="20">
+
 ---
 
 # Multilingual Encryption/Decryption Tool
