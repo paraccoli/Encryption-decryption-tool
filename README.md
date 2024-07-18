@@ -76,4 +76,8 @@ This application is a Python-based GUI tool for encrypting and decrypting messag
 - For Fernet encryption, you must use the same password to correctly decrypt the message.
 - Caesar cipher can be easily decrypted and is not suitable for encrypting important information.
 
-## 開発者 / Developer
+## **作成者 Developer**
+
+- 作成者: xM1guel
+- GitHub: https://github.com/xM1guel
+- Zenn: https://zenn.dev/miguel
