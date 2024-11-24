@@ -80,6 +80,6 @@ This application is a Python-based GUI tool for encrypting and decrypting messag
 
 ## **作成者 Developer**
 
-- 作成者: xM1guel
-- GitHub: https://github.com/xM1guel
+- 作成者: パラッコリー(ID：Paraccoli)
+- GitHub: https://github.com/paraccoli
 - Zenn: https://zenn.dev/miguel
